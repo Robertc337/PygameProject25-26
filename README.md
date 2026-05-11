@@ -1,2 +1,2 @@
 # PygameProject25-26
-Snake game made by RobertC AngelN
+Snake game made by RobertC_AngelN
